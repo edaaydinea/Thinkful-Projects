@@ -1,1 +1,2 @@
-# games
+# Games
+From Thinkful Workshops
